@@ -1,1 +1,1 @@
-# git_test
+This is richisp first Git project!
